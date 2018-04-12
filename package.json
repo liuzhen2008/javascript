@@ -30,7 +30,7 @@
     "agentkeepalive": "^3.1.0",
     "lil-uuid": "^0.1.1",
     "superagent": "^3.8.1",
-    "superagent-proxy": "git://github.com/liuzhen2008/node-proxy-agent.git#master"
+    "superagent-proxy": "git://github.com/liuzhen2008/superagent-proxy.git#master"
   },
   "noAnalyze": false,
   "devDependencies": {
